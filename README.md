@@ -8,3 +8,5 @@ I am a computer science student in my second year of study at Heinrich-Heine-Uni
 
 [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Wefers&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Wefers&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Natürlich brenne ich auch gerne CDs!
